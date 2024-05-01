@@ -4,8 +4,8 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-GMAIL_ID = 'himanshidosarka@gmail.com'  # Your Gmail email address
-GMAIL_PSWD = 'qhcd uihf axgh ztdb'  # Your Gmail password or app password
+GMAIL_ID = '  '  # Your Gmail email address
+GMAIL_PSWD = '  '  # Your Gmail password or app password
 
 def send_email(to, sub, msg):
     print(f"Email to {to} sent with Subject: {sub} and message {msg}")
