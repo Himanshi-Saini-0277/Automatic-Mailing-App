@@ -19,19 +19,15 @@ The Birthday Reminder and Email Automation Script is a Python program designed t
 ## Usage
 
 #### Setup Gmail Credentials:
-
 Replace the placeholders GMAIL_ID and GMAIL_PSWD with your Gmail email address and password or app password respectively.
 
 #### Prepare Excel File:
-
 Create an Excel file named 'data.xlsx' with columns 'Name', 'Email', 'Birthday' (date format), 'Dialogue', and 'Year'.
 
 #### Customize Email Content:
-
 Modify the email subject and message content in the send_email() function to personalize the birthday emails.
 
 #### Run the Script:
-
 Execute the script by running it with Python (python script_name.py). Ensure that the Excel file is in the same directory as the script.
 
 ## Behavior
